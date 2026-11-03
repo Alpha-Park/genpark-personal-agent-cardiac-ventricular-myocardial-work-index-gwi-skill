@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-cardiac-ventricular-myocardial-work-index-gwi-skill",
+  "version": "1.0.0",
+  "description": "Calculates Left Ventricular Myocardial Work Index (GWI), Constructive Work (GCW), Wasted Work (GWW), and Work Efficiency (GWE%) from non-invasive pressure-strain mechanics.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "cardiology",
+    "echocardiography",
+    "myocardial-work",
+    "gwi",
+    "strain",
+    "hemodynamics",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
